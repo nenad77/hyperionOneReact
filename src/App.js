@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import {Search} from './components/Search/Search';
+import css from './App.css'
 
 class App extends Component {
 
